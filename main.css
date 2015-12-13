@@ -1,0 +1,62 @@
+
+* {
+  font-family: Courier;
+}
+
+
+.jumbotron {
+  background-image:url("http://www.kirbyandkraut.com/wp-content/uploads/2013/11/Pickle_Train.jpg");
+  background-size: cover;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  background-position: 50% 50%;
+  height: 500px;
+  width: auto;
+  padding-top: 20px;
+  color: white;
+}
+
+.thumbnail {
+  height: 200px;
+  width: 200px;
+  color: #e6e6e6;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  background-size: cover;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  background-position: 50% 50%;
+  padding: 20px;
+}
+
+.row {
+  margin: 20px;
+}
+
+#location {
+  background-image:url("http://i.imgur.com/dZnP5aQ.jpg")
+}
+
+#ingredient {
+  background-image:url("http://i.imgur.com/HpTI7pv.jpg")
+}
+
+#vegetable {
+  background-image:url("http://i.imgur.com/ifom5plt.jpg")
+}
+
+#rating {
+  background-image:url("http://www.seriouseats.com/images/2011/08/20110823-pickles-500.jpg")
+}
+
+.jumbotron a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+	font-weight: bold;
+	font-size: 30px;
+  text-decoration: none;
+}
