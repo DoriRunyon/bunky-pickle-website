@@ -17,11 +17,10 @@
 }
 
 .jumbotron .container a {
-  color: white; 
+  color: white;
 }
 
 .thumbnail {
-  height: 200px;
   width: 200px;
   color: #e6e6e6;
   font-size: 30px;
