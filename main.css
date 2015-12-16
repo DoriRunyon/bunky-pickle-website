@@ -16,6 +16,10 @@
   color: white;
 }
 
+.jumbotron .container a {
+  color: white; 
+}
+
 .thumbnail {
   height: 200px;
   width: 200px;
@@ -34,29 +38,19 @@
   margin: 20px;
 }
 
-#location {
-  background-image:url("http://i.imgur.com/dZnP5aQ.jpg")
-}
-
-#ingredient {
-  background-image:url("http://i.imgur.com/HpTI7pv.jpg")
-}
-
-#vegetable {
-  background-image:url("http://i.imgur.com/ifom5plt.jpg")
-}
-
-#rating {
-  background-image:url("http://www.seriouseats.com/images/2011/08/20110823-pickles-500.jpg")
-}
-
-.jumbotron a {
+.bunky a {
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 a:hover {
 	font-weight: bold;
 	font-size: 30px;
   text-decoration: none;
+}
+
+.neighborhood-guides .container p {
+  font-size: 15px;
+  color: black;
+
 }
